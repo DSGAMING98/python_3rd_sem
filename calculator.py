@@ -1,0 +1,11 @@
+num1 = float(input("Enter First Number: "))
+num2 = float(input("Enter Second Number: "))
+
+print("\nCALCULATOR")
+print(f"Addition : {num1 + num2}")
+print(f"Subtraction : {num1 - num2}")
+print(f"Multiplication : {num1 * num2}")
+print(f"Division : {num1 / num2}")
+print(f"Floor Division : {num1 // num2}")
+print(f"Modulus : {num1 % num2}")
+print(f"Power : {num1 ** num2}")
