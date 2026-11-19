@@ -1,0 +1,7 @@
+
+10:00 INFO Application started
+10:05 WARNING Low memory
+10:10 ERROR Database connection failed
+10:15 INFO User logged in
+10:20 ERROR File not found
+10:25 INFO Application closed
