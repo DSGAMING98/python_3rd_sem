@@ -1,4 +1,3 @@
-
 filename = input("Enter file type (txt/csv): ").lower()
 
 if filename == "csv":

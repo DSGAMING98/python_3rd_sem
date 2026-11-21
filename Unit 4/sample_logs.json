@@ -1,0 +1,18 @@
+[
+  {
+    "level": "INFO",
+    "message": "Application started"
+  },
+  {
+    "level": "WARNING",
+    "message": "Memory usage is above 80 percent"
+  },
+  {
+    "level": "ERROR",
+    "message": "Unable to connect to database"
+  },
+  {
+    "level": "INFO",
+    "message": "Database connection restored"
+  }
+]

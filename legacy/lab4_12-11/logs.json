@@ -3,5 +3,10 @@
         "timestamp": "2026-11-12 10:05:10",
         "level": "ERROR",
         "message": "Database connection failed"
+    },
+    {
+        "timestamp": "2026-11-19 21:03:44",
+        "level": "ERROR",
+        "message": "Error! Please fix"
     }
 ]

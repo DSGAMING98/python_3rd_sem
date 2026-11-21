@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+venv/
+Unit 5/daily_sales.png
+Unit 5/product_sales.png
